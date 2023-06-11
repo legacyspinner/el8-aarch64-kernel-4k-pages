@@ -44,8 +44,8 @@ IDK, yet. It could also be an issue with my aarch64-kvmhost or unknown.
 
 
 
-8.7 works: INITRAMFS OK! Software default install selections appear to have changed.WORKS. 
-                          best one so far to start with for 'me'.
+
+8.7 boots: TESTING
 
 8.8 TESTING
 
