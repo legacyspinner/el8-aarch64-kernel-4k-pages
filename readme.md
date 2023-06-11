@@ -42,6 +42,7 @@ IDK, yet. It could also be an issue with my aarch64-kvmhost or unknown.
   
   Github images vs Me.
   Gh=10000+ me=-1
+  *VERY amusing how gh browser upload of images DOESNT WORK, but cmd line the images dont get converted!
   
   It appears gh has made inline images exceedingly difficult, let me keep trying....
   <code>
@@ -54,6 +55,9 @@ IDK, yet. It could also be an issue with my aarch64-kvmhost or unknown.
   
   
   ![alt text](https://github.com/[LegacyDSpinner]/[el8-aarch64-kernel-4k-pages]/blob/[main]/rocky-8.6-aarch64-iso-install.png?raw=true)
+  
+  
+  ![alt text](https://github.com/legacyspinner/el8-aarch64-kernel-4k-pages/blob/master/rocky-8.6-aarch64-iso-install.png?raw=true)
   
   ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
   
