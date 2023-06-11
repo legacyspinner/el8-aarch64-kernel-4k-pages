@@ -53,23 +53,11 @@ IDK, yet. It could also be an issue with my aarch64-kvmhost or unknown.
   
   
   
-  
-  ![alt text](https://github.com/[LegacyDSpinner]/[el8-aarch64-kernel-4k-pages]/blob/[main]/rocky-8.6-aarch64-iso-install.png?raw=true)
-  
-  
+  <p>
   ![alt text](https://github.com/legacyspinner/el8-aarch64-kernel-4k-pages/blob/master/rocky-8.6-aarch64-iso-install.png?raw=true)
   
-  ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-  
-  ![8.6](https://master.dl.sourceforge.net/project/assets/rocky/rocky-8.6-aarch64-iso-install.png?raw=1)
-  
-  <img alt="alt_text" width="40px" src="[https://sourceforge.net/projects/assets/files/rocky/rocky-8.6-aarch64-iso-install.png](https://downloads.sourceforge.net/project/assets/rocky/rocky-8.6-aarch64-iso-install.png)"/>
-  
-  
-  ![8.6-2](https://downloads.sourceforge.net/project/assets/rocky/rocky-8.6-aarch64-iso-install.png)
-  
-  
-  
+  ![](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+      
 </p>
 8.7 works: INITRAMFS OK! Software default install selections appear to have changed.WORKS. 
                           best one so far to start with for 'me'.
