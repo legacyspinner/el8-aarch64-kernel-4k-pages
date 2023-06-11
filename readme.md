@@ -45,7 +45,8 @@ IDK, yet. It could also be an issue with my aarch64-kvmhost or unknown.
 
 
 
-8.7 boots: TESTING
+8.7 boots: INITRAMFS: Fails on my setup:
+![8.7](/87no.png?raw=true)
 
 8.8 TESTING
 
