@@ -45,8 +45,14 @@ IDK, yet. It could also be an issue with my aarch64-kvmhost or unknown.
 
 
 
-8.7 boots: INITRAMFS: Fails on my setup:
+8.7 boots: INITRAMFS: Fails on my setup using rocky 8.7:
 ![8.7](/assets/images/87no.png?raw=true)
+
+*Note: 8.7 #1 on alma also fails, with a different error:
+<code> error: ../../grub-core/kern/disk_common.c:47:attempt to read or write outside
+of disk `cd0'.
+error: ../../grub-core/loader/arm64/linux.c:304:you need to load the kernel</code>
+
 
 8.8 TESTING
 
