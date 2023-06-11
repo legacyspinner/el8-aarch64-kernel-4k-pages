@@ -38,22 +38,9 @@ IDK, yet. It could also be an issue with my aarch64-kvmhost or unknown.
 
 8.6 works: INITRAMFS OK! best one so far to start with for 'me'. 
                           -Tested 2nd round, OK. (460 rpm pkgs)
-                          <p>
-   
+ <p>
    ![alt text](/rocky-8.6-aarch64-iso-install.png)
-   
-   
-  
-  
-  ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-  
-  
-
-
-
-
-![test](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-  
+</p>
 
 8.7 works: INITRAMFS OK! Software default install selections appear to have changed.WORKS. 
                           best one so far to start with for 'me'.
