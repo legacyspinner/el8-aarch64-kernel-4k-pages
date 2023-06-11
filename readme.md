@@ -53,6 +53,10 @@ IDK, yet. It could also be an issue with my aarch64-kvmhost or unknown.
   ![w t f](http://github.com/legacyspinner/el8-aarch64-kernel-4k-pages/blob/master/rocky-8.6-aarch64-iso-install.png?raw=true)
   </p>
   
+   ![alt text](/rocky-8.6-aarch64-iso-install.png)
+   
+   
+  
   
   ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
   
