@@ -49,7 +49,14 @@ IDK, yet. It could also be an issue with my aarch64-kvmhost or unknown.
     Not found....
     Non-Image content-type returned
   </code>
-  ![wtf](http://github.com/legacyspinner/el8-aarch64-kernel-4k-pages/blob/master/rocky-8.6-aarch64-iso-install.png)
+  <p>
+  ![w t f](http://github.com/legacyspinner/el8-aarch64-kernel-4k-pages/blob/master/rocky-8.6-aarch64-iso-install.png?raw=true)
+  </p>
+  
+  
+  ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+  
+  
   
   Ok GH: this one was viewed 1.9M times, problems?
   <p>
