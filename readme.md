@@ -39,20 +39,7 @@ IDK, yet. It could also be an issue with my aarch64-kvmhost or unknown.
 8.6 works: INITRAMFS OK! best one so far to start with for 'me'. 
                           -Tested 2nd round, OK. (460 rpm pkgs)
                           <p>
-  
-  Github images vs Me.
-  Gh=10000+ me=-1
-  *VERY amusing how gh browser upload of images DOESNT WORK, but cmd line the images dont get converted!
-  
-  It appears gh has made inline images exceedingly difficult, let me keep trying....
-  <code>
-    Not found....
-    Non-Image content-type returned
-  </code>
-  <p>
-  ![w t f](http://github.com/legacyspinner/el8-aarch64-kernel-4k-pages/blob/master/rocky-8.6-aarch64-iso-install.png?raw=true)
-  </p>
-  
+   
    ![alt text](/rocky-8.6-aarch64-iso-install.png)
    
    
@@ -61,40 +48,6 @@ IDK, yet. It could also be an issue with my aarch64-kvmhost or unknown.
   ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
   
   
-  
-  Ok GH: this one was viewed 1.9M times, problems?
-  <p>
-  ![alt text](http://url/to/img.png)
-  ![8.6iso](https://github.com/legacyspinner/el8-aarch64-kernel-4k-pages/blob/master/rocky-8.6-aarch64-iso-install.png)
-</p>
-
-  <p>
-  ![alt text](http://url/to/img.png)
-  ![8.6iso](https://github.com/legacyspinner/el8-aarch64-kernel-4k-pages/blob/master/rocky-8.6-aarch64-iso-install.png?raw=true)
-</p>
-
-
-
-  
-<p>
-![8.6 iso booting](https://raw.githubusercontent.com/legacyspinner/el8-aarch64-kernel-4k-pages/master/rocky-8.6-aarch64-iso-install.png?raw=true)
-</p>
-
-<p>
-![8.6iso](https://github.com/legacyspinner/el8-aarch64-kernel-4k-pages/blob/master/rocky-8.6-aarch64-iso-install.png)
-</p>
-
-<p>
-![8.6iso](https://github.com/legacyspinner/el8-aarch64-kernel-4k-pages/blob/master/rocky-8.6-aarch64-iso-install.png?raw=true)
-</p>
-
-
-
-<p>
-![8.6 iso booting](https://raw.githubusercontent.com/legacyspinner/el8-aarch64-kernel-4k-pages/master/rocky-8.6-aarch64-iso-install.png)
-</p>
-
-
 
 
 
