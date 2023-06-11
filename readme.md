@@ -40,7 +40,7 @@ IDK, yet. It could also be an issue with my aarch64-kvmhost or unknown.
                           -Tested 2nd round, OK. (460 rpm pkgs)
 
    
-   ![8.6](/rocky-8.6-aarch64-iso-install.png?raw=true)
+   ![8.6](/assets/images/rocky-8.6-aarch64-iso-install.png?raw=true)
 
 
 
