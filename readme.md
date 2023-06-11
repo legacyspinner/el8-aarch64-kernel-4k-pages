@@ -53,11 +53,28 @@ IDK, yet. It could also be an issue with my aarch64-kvmhost or unknown.
   
   
   
-  <p>
-   ![8.6 iso booting](https://raw.githubusercontent.com/legacyspinner/el8-aarch64-kernel-4k-pages/master/rocky-8.6-aarch64-iso-install.png?raw=true)
-  
-      
+<p>
+![8.6 iso booting](https://raw.githubusercontent.com/legacyspinner/el8-aarch64-kernel-4k-pages/master/rocky-8.6-aarch64-iso-install.png?raw=true)
 </p>
+
+<p>
+![8.6iso](https://github.com/legacyspinner/el8-aarch64-kernel-4k-pages/blob/master/rocky-8.6-aarch64-iso-install.png)
+</p>
+
+<p>
+![8.6iso](https://github.com/legacyspinner/el8-aarch64-kernel-4k-pages/blob/master/rocky-8.6-aarch64-iso-install.png?raw=true)
+</p>
+
+
+
+<p>
+![8.6 iso booting](https://raw.githubusercontent.com/legacyspinner/el8-aarch64-kernel-4k-pages/master/rocky-8.6-aarch64-iso-install.png)
+</p>
+
+
+
+
+
 
 ![test](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
   
