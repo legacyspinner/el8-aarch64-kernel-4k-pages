@@ -18,14 +18,14 @@ This is the 4K pages version, not fully optimised for the m1, but works.
 Kernel pages is aka granular kernel* 
 
 *This version appears to be more stable thant he 16K version built and suffers 
-few issues so far for me except for virtio gpu/drm-kms-helper. I think I can
-downgrade to another GPU(or none) driver in UTM.
+few issues so far for me except for virtio gpu/drm-kms-helper. 
 
-*Try testing it with different video drivers and different QEMU versions.
-*I have tried all the down to QEMU 2.10 ARM/ and still works, not sure which is most stable yet.
+*I tested the 64K pages projects UTM/Qemu Graphics options:
+On it with "Use Hypervisor" checked, two options work.
+I will test it seperated for the 4K version here, but I expect it
+to be the same.
 
-
-See for yourself! Ready set go?
+See for yourself?
 <hr>
 <hr>
 On your UTM installed el8, to test/install to new 4K pages kernel:
