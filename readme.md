@@ -63,7 +63,10 @@ Alma 8.7 has another iso: AlmaLinux-8.7-update-1-aarch64-minimal.iso
 ![rocky 8.8](/assets/images/88rockynope.png?raw=true)
 
 Alma 8.8
-![alma 8.8](/assets/images/.png?raw=true)
+![alma 8.8](/assets/images/88almanope.png?raw=true)
+
+
+*Perhaps these ones later do run on other setups, its possible it is just my system that's the problem!
 
 <br>
 
