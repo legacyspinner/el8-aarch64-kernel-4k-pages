@@ -17,6 +17,10 @@ This is the 4K pages version, not fully optimised for the m1, but works.
 *I also built a 16K pages version, based on apples m1 Native HW. 
 Kernel pages is aka granular kernel* 
 
+*This version appears to be more stable thant he 16K version built and suffers 
+few issues so far for me.
+
+
 See for yourself! Ready set go?
 <hr>
 <hr>
