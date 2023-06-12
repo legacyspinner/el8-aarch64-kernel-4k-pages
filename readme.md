@@ -41,3 +41,4 @@ yum install kernel
 Reboot and check, if all went well:
 
 If so you should see the following or similar.
+![8.8-on-Apple-Mac-M1-using-UTM](/assets/images/8.8UTM.png?raw=true)
