@@ -26,7 +26,7 @@ few issues so far for me except for virtio gpu/drm-kms-helper.
  + Virtio-ramfb: works
  + Other ones don't bring up X, some not even a console, but most you can all still ssh into.
  + Selecting a different QEMU version did not seem to matter, all the QEMU x.x ARM Virtual Machine ones worked
-
+<hr>
 See for yourself?
 <hr>
 <hr>
