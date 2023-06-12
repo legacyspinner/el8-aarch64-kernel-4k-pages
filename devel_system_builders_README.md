@@ -21,6 +21,16 @@ I made this to test on the apple m1 with UTM with 'hypervisor' set to on.
 The machine  expects 4K or 16K pages but the default in el8 is detected as 64K.
 
 
+
+Mini-Status:
+Testing.
+<code>
+mock -r rocky-8-aarch64 kernel-4.18.0-477.13.1.el8_8.2_16K_pages.src.rpm --without debug --without debuginfo --without kabichk --enablerepo=devel
+</code>
+
+
+
+
 Compile your own with:
 <code>
 rpmbuild -bb --target=$(uname -m) kernel.spec --without debug --without debuginfo --without kabichk kernel.spec 2> build-err.log | tee build-out.log
