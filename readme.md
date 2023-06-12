@@ -39,7 +39,10 @@ Results:
 
 
 
-Ready set go?
+
+
+See for yourself! Ready set go?
+<hr>
 <hr>
 On your UTM installed el8, to test/install to new 4K pages kernel:
 
