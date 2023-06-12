@@ -21,10 +21,11 @@ Kernel pages is aka granular kernel*
 *This version appears to be more stable thant he 16K version built and suffers 
 few issues so far for me except for virtio gpu/drm-kms-helper. 
 
-*I tested the 64K pages projects UTM/Qemu Graphics options:
-On it with "Use Hypervisor" checked, two options work.
-I will test it seperated for the 4K version here, but I expect it
-to be the same.
+### 4K granular/pages UTM virt, QEMU GPU Driver Testing on Gnome, with "Use Hypervisor" on.
+ + Virtio-gpu-pci: works
+ + Virtio-ramfb: works
+ + Other ones don't bring up X, some not even a console, but most you can all still ssh into.
+ + Selecting a different QEMU version did not seem to matter, all the QEMU x.x ARM Virtual Machine ones worked
 
 See for yourself?
 <hr>
