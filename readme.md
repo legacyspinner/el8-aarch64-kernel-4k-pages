@@ -54,7 +54,7 @@ Debug patch included too incase you want to rebuild with that enabled.
 
 
 <hr>
-DEVEL ONLY!
+BELOW IS FOR DEVEL/SYSTEM BUILDERS ONLY!
 <hr>
 *Its unrelated to the rebuilt kernel-4k itself, but as a pre-req I should mention for anyone else trying
 to rebuild/clone. 
