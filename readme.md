@@ -4,7 +4,7 @@ For example, if you have
 a el8-aarch64 installed already in UTM on a Apple M1 but its running in software mode,
 which is the only way you can normally install 7/8 in UTM.
 
-Now, you can upgrade that and test with 4K pages.
+Now, you can install a new kernel or upgrade the old one and test with 4K pages.
 It seems really fast to me, now with Virtualiazation ticked.
 I also have 8 cores enabled with 8G memory.
 
