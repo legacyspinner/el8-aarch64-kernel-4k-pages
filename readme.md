@@ -79,7 +79,7 @@ This is what you came for right? Then tick that little box that reads:
 "Use Hypervisor"
 </code>
 
-*Ofc, we always wanted to 'use Hypervisor', now we can with all the el's  *7/8/9 :)
+*Ofc, we always wanted to 'use Hypervisor' on our aarch64/arm64 machines, now we can with all the el's  *7/8/9 :)
 *7 yet to be rebuilt, but its easy peasy.
 
   ![8.8-on-Apple-Mac-M1-using-UTM](/assets/images/8.8UTM-VIRT-TICK.png?raw=true)
