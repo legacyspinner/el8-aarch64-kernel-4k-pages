@@ -41,7 +41,7 @@ enabled=1
 
 Then run:
 <code>
-yum install kernel
+dnf install kernel
 </code>
 
 Reboot and check, if all went well:
