@@ -10,15 +10,10 @@ and then install to new kernel as follows.
 
 From your test install:
 
-Download the repo config from:
-
-https://sourceforge.net/projects/el8-aarch64-4k-pages-repo/files/dnf/8/el8-aarch64-4k-pages.repo
-
-and copy to /etc/yum.repos.d/
-
-or create the file:
+create the repo:
+<code>
 /etc/yum.repos.d/el8-aarch64-4k-pages.repo
-
+</code>
 with the contents:
 <code>
 [el8-aarch64-4k-pages]
