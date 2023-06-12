@@ -26,6 +26,8 @@ which spawned from another project. Hopefully now I can make arm packages NATIVE
 kernel in less than an hour! Host didnt even break a break a sweat or crank on its fan very much :)
 This is fast/per watt, really fast!
 
+*I'm going to bump the spec and time it now!
+
 
 Ready set go?
 <hr>
