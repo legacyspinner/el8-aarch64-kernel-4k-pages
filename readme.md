@@ -17,7 +17,44 @@ kernel.spec 2> build-err.log | tee build-out.log
 
 *Note: patches have been included for testing seperate but are already in the SRPM/Source.
 Debug patch included too incase you want to rebuild with that enabled.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <hr>
+DEVEL ONLY!
 <hr>
 *Its unrelated to the rebuilt kernel-4k itself, but as a pre-req I should mention for anyone else trying
 to rebuild/clone. 
