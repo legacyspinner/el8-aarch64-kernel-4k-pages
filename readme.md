@@ -24,6 +24,7 @@ which spawned from another project. Hopefully now I can make arm packages NATIVE
 
 ***UPDATE: Yes, my mac m1 with el8 on aarch64 is blazing fast now! I just rebuild this projects
 kernel in less than an hour! Host didnt even break a break a sweat or crank on its fan very much :)
+This is fast/per watt, really fast!
 
 
 Ready set go?
