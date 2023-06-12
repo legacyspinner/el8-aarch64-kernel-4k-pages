@@ -16,7 +16,7 @@ In UTM I have 8 cores enabled with 8G memory.
 
 This is the 4K pages version, not fully optimised for the m1, but works.
 *I also built a 16K pages version, based on apples m1 Native HW. 
-Kernel pagesize are also referred to by developers as granular translation table options or similar. 
+Kernel pagesize is also referred to by developers as granular translation table options or similar. 
 
 *This version appears to be more stable thant he 16K version built and suffers 
 few issues so far for me except for virtio gpu/drm-kms-helper. 
