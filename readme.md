@@ -59,7 +59,10 @@ Alma 8.7 has another iso: AlmaLinux-8.7-update-1-aarch64-minimal.iso
 ![alma 8.7](/assets/images/alma87no.png?raw=true)
 
 
-8.8 TESTING
+8.8 boots: INITRAMFS: Fails on my setup using rocky 8.8:
+![rocky 8.8](/assets/images/88rockynope.png?raw=true)
+
+
 
 *If these all work,SPECULATION: I could assume I had a EFI firmware fart that somehow followed up by cascade failing subequent attempts.
 Then , I could have rebooted/refresh the firmware, and got good installs after. retesting still.
