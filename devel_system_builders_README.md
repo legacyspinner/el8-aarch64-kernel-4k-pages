@@ -13,8 +13,10 @@ rpmbuild -ba --target=$(uname -m) kernel.spec --without debug --without debuginf
 *Note: patches have been included for testing seperate but are already in the SRPM/Source.
 Debug patch included too incase you want to rebuild with that enabled.
 
+
 <hr>
-BELOW IS FOR DEVEL/SYSTEM BUILDERS ONLY!
+<hr>
+CONTSTRUCTION BELOW IS FOR DEVEL/SYSTEM BUILDERS ONLY!
 <hr>
 *Its unrelated to the rebuilt kernel-4k itself, but as a pre-req I should mention for anyone else trying
 to rebuild/clone. 
