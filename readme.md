@@ -50,7 +50,7 @@ Reboot and check, if all went well:
 If so you should see the following or similar.
 ![8.8-on-Apple-Mac-M1-using-UTM](/assets/images/8.8UTM-boot.png?raw=true)
 
-Go ahead and shut down and enabled better/faster/stronger Virtualization on your Mac M1 now :)
+Go ahead and shut down and enable better/faster/stronger Virtualization on your Mac M1 now :)
 This is what you came for right? Then tick that little box that reads:
 <code>
 "Use Hypervisor"
