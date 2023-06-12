@@ -38,6 +38,7 @@ time rpmbuild -ba --target=$(uname -m) kernel.spec --without debug --without deb
 </code>
 
 Results:
+Ok ~15min. Checking again to confirm.
 
 
 
