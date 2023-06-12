@@ -26,7 +26,7 @@ enabled=1
 
 Then run:
 <code>
-yum update kernel
+yum install kernel
 </code>
 
 Reboot and check, if all went well:
