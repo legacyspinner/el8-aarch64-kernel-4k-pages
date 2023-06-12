@@ -21,6 +21,7 @@ Debug patch included too incase you want to rebuild with that enabled.
 <hr>
 *Its unrelated to the rebuilt kernel-4k itself, but as a pre-req I should mention for anyone else trying
 to rebuild/clone. 
+
 The build host for this subproject:
 Built on rocky-8.x minimal, that was upgraded to later versions. 
 For now, I'm((all me im sure, TM) having issues with 'initial' rocky-aarch64-min iso installs 
