@@ -15,12 +15,12 @@ I also have 8 cores enabled with 8G memory.
 *Next up lets see how fast the M1 can go on UTM with el8, with native 16K pages, w00t!
 I did this so I could build faster packages for the Rpi's, before It would take me over a day to compile
 a kernel native on a RPi4, or a not very long with CROSS ofc, but I dont want to use cross. I wanted NATIVE
-and now I have it! For testing only ofc, bugs included!
+and now I have it! For testing only ofc, bugs included! Soon, I'll get back to my goal when I started this, 
+which spawned from another project. Hopefully now I can make arm packages NATIVE and FAST. 
 
 
-*At some point I'll get back to my goal when I started which was another project, soon I will
-and hopefully now I can make arm packages NATIVE and FAST, yes I did say NATIVE/FAST ARM, without using cross :)
-
+Ready set go?
+<hr>
 On your UTM installed el8, to test/install to new 4K pages kernel:
 
 
