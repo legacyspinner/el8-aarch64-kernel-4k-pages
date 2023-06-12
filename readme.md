@@ -2,7 +2,7 @@ To test it in a virtual environment on a el8.x aarch64 install.
 
 For example, if you have
 a el8-aarch64 installed already in UTM on a Apple M1 but its running in software mode,
-which <pre><code><del>is</del></code></pre> , I mean was the only way you can normally install 7/8 in UTM.
+```is``` , I mean was the only way you can normally install 7/8 in UTM.
 
 Now, you can install a new kernel or upgrade the old one and test with 4K pages.
 
