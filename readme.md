@@ -44,7 +44,14 @@ If so you should see the following or similar.
 ![8.8-on-Apple-Mac-M1-using-UTM](/assets/images/8.8UTM-boot.png?raw=true)
 
 Go ahead and shut down and enabled better/faster/stronger Virtualization on your Mac M1 now :)
-![8.8-on-Apple-Mac-M1-using-UTM](/assets/images/8.8UTM-VIRT-TICK.png?raw=true)
+This is what you came for right? Then tick that little box that reads:
+<code>
+"Use Hypervisor"
+</code>
+
+*Ofc, we always wanted to 'use Hypervisor', now we can. :)
+
+  ![8.8-on-Apple-Mac-M1-using-UTM](/assets/images/8.8UTM-VIRT-TICK.png?raw=true)
 
 Then start up the machine again and you can check a couple things:
 ![8.8-on-Apple-Mac-M1-using-UTM](/assets/images/8.8UTM-1.png?raw=true)
