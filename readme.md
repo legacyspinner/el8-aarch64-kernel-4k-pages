@@ -29,6 +29,7 @@ IDK, yet. It could also be an issue with my aarch64-kvmhost or unknown.
 
 
 *Here's what I will say for now about starting with aarch64 iso's and me:
+Works, doesnt mean I tested everything, just means it booted/installed and then booted again.
 
 8.3 works: INITRAMFS OK! but is a known dev version with warnings in "ISSUE"-DO NOT START/BUILD WITH/FROM THIS ONE
 
