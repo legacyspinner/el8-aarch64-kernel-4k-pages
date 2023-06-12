@@ -65,7 +65,10 @@ Alma 8.7 has another iso: AlmaLinux-8.7-update-1-aarch64-minimal.iso
 Alma 8.8: INTRAMFS: Failes on my setup.
 ![alma 8.8](/assets/images/88almanope.png?raw=true)
 
-*You can use a earlier ISO and just upgrade if you need to.
+*You can use a earlier ISO and just upgrade if you need to. Some builds on my setup
+also have issues with grabbing the console, or keeping it. They will install/ but lose
+video, though you can still get to them via ssh, libvirt breaks off somehow.
+
 *Perhaps these ones later do run on other setups, its possible it is just my system that's the problem!
 
 <br>
