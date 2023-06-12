@@ -19,7 +19,7 @@ kernel.spec 2> build-err.log | tee build-out.log
 Debug patch included too incase you want to rebuild with that enabled.
 <hr>
 <hr>
-*Its unrelated to the rebuilt kernel-4k itself. I should mention for anyone else trying
+*Its unrelated to the rebuilt kernel-4k itself, but as a pre-req I should mention for anyone else trying
 to rebuild/clone. 
 The build host for this subproject:
 Built on rocky-8.x minimal, that was upgraded to later versions. 
