@@ -24,8 +24,9 @@ enabled=1
 </code>
 
 Then run:
+<code>
 yum update kernel
-
+</code>
 
 Reboot and check, if all went well:
 <code>
