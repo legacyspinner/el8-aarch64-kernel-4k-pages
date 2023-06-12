@@ -64,10 +64,6 @@ Alma 8.7 has another iso: AlmaLinux-8.7-update-1-aarch64-minimal.iso
 
 
 
-*If these all work,SPECULATION: I could assume I had a EFI firmware fart that somehow followed up by cascade failing subequent attempts.
-Then , I could have rebooted/refresh the firmware, and got good installs after. retesting still.
-Trying to trigger the issue again!
-
 <br>
 
 So I just working around some issues building, for now instead of:
