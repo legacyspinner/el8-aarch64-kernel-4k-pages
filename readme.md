@@ -15,7 +15,7 @@ It seems really fast to me, now with 'Use Hypervisor' ticked.
 *This is like real decent aarch64 speed now for development, no cross needed. Seems to have brought
 out the potential of the machine, I'm very happy with my compile testing so far.
 
-*I assume this is the mac equivalent of KVM, but I could be wrong.
+I assume this is the mac equivalent of KVM, but I could be wrong.
 
 This is the 4K pages version, not fully optimised for the m1, but works fast.
 *I also built a 16K pages version, based on apples m1 Native HW. 
