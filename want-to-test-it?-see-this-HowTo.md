@@ -14,6 +14,7 @@ create the repo:
 <code>
 /etc/yum.repos.d/el8-aarch64-4k-pages.repo
 </code>
+
 with the contents:
 <code>
 [el8-aarch64-4k-pages]
