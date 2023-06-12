@@ -67,9 +67,7 @@ Alma 8.8: INTRAMFS: Failes on my setup.
 *You can use a earlier ISO and just upgrade if you need to. 
 
 *Some builds on my setup starting with 8.5/8.6, also have issues with grabbing the console, or keeping it. 
-They will install/ but lose video, though you can still get to them via ssh, the , but you can probably
-manually attach video and try again.
-
+They will install/ but lose video, though you can still get to them via ssh.
 *Perhaps these ones later do run on other setups, its possible it is just my system that's the problem!
 
 <br>
