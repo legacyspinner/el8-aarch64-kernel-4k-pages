@@ -32,11 +32,3 @@ yum install kernel
 Reboot and check, if all went well:
 
 If so you should see the following or similar.
-
-Rocky Linux 8.6 (Green Obsidian)
-Kernel 4.18.0-477.13.1.el8_8.1_4K_pages.aarch64 on an aarch64
-
-
-
-*If you ‘still’ get a grub error complaining about 64K slices, try updating with grubby and/or grub2-mkinstall. I will rebuild a new image soon to try and fix that. You can do the same, 
-just add the repo specs to your kickstart and respin.
