@@ -10,13 +10,16 @@ I also have 8 cores enabled with 8G memory.
 
 *Next up lets see how fast the M1 can go on UTM with el8, with native 16K pages, w00t!
 
-Then check the virtualization box in UTM for the installation
-and then install to new kernel as follows.
+
+*At some point I'll get back to my goal when I started which was another project, soon I will
+and hopefully now I can make arm packages NATIVE and FAST, yes I did say NATIVE/FAST ARM, without using cross :)
+
+On your UTM installed el8, to test/install to new 4K pages kernel:
 
 
-From your test install:
+From your test install(not production box):
 
-create the file for the repo:
+create the file for the repo @:
 <code>
 /etc/yum.repos.d/el8-aarch64-4k-pages.repo
 </code>
