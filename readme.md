@@ -23,7 +23,10 @@ which spawned from another project. Hopefully now I can make arm packages NATIVE
 
 
 ***UPDATE: Yes, my mac m1 with UTM running el8 on aarch64 is blazing fast now! I just rebuilt this projects
-kernel in less than an hour! Host didnt even break a break a sweat or crank on its fan very much :)
+kernel in less than an hour! Host didnt crank on its fan very much, that I could hear :)
+btop shows the m1 running 96% cpu at 70 deg c, with a loag avg right now of , 9.2 7.4, 6.18
+
+
 This is fast/per watt, really fast!
 
 *I'm going to bump the spec and time it now!
