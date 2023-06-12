@@ -37,8 +37,11 @@ Testing123:
 time rpmbuild -ba --target=$(uname -m) kernel.spec --without debug --without debuginfo --without kabichk kernel.spec 2> build-err.log | tee build-out.log
 </code>
 
-Results:
-Ok ~15min. Checking again to confirm.
+Results: 
+
+real	28m49.873s
+user	153m25.928s
+sys	17m43.179s
 
 
 
