@@ -18,41 +18,6 @@ kernel.spec 2> build-err.log | tee build-out.log
 *Note: patches have been included for testing seperate but are already in the SRPM/Source.
 Debug patch included too incase you want to rebuild with that enabled.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <hr>
 BELOW IS FOR DEVEL/SYSTEM BUILDERS ONLY!
 <hr>
