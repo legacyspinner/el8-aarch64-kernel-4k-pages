@@ -30,9 +30,8 @@ yum install kernel
 </code>
 
 Reboot and check, if all went well:
-<code>
-uname -a
-</code>
+
+If so you should see the following or similar.
 
 Rocky Linux 8.6 (Green Obsidian)
 Kernel 4.18.0-477.13.1.el8_8.1_4K_pages.aarch64 on an aarch64
