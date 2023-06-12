@@ -28,6 +28,7 @@ Testing.
 mock -r rocky-8-aarch64 kernel-4.18.0-477.13.1.el8_8.2_16K_pages.src.rpm --without debug --without debuginfo --without kabichk --enablerepo=devel
 </code>
 
+*building so far with those args/opts. I will replace both 4K/16K projects manual built rpms with mocks rpms, soon as these finish without error.
 
 
 
