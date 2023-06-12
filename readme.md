@@ -18,7 +18,8 @@ This is the 4K pages version, not fully optimised for the m1, but works.
 Kernel pages is aka granular kernel* 
 
 *This version appears to be more stable thant he 16K version built and suffers 
-few issues so far for me.
+few issues so far for me except for virtio gpu/drm-kms-helper. Which I think I can
+downgrade to another GPU(or none) driver in UTM.
 
 
 See for yourself! Ready set go?
