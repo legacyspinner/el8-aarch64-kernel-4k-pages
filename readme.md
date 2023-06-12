@@ -1,8 +1,14 @@
 To test it in a virtual environment on a el8.x aarch64 install. 
 
 For example, if you have
-a el8-aarch64 installed already in UTM on a m1 but its running in software mode
-and you want to try this kernel and test . 
+a el8-aarch64 installed already in UTM on a Apple M1 but its running in software mode,
+which is the only way you can normally install 7/8 in UTM.
+
+Now, you can upgrade that and test with 4K pages.
+It seems really fast to me, now with Virtualiazation ticked.
+I also have 8 cores enabled with 8G memory.
+
+*Next up lets see how fast the M1 can go on UTM with el8, with native 16K pages, w00t!
 
 Then check the virtualization box in UTM for the installation
 and then install to new kernel as follows.
