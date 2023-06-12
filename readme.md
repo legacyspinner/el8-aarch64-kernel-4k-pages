@@ -21,6 +21,8 @@ Kernel pages is aka granular kernel*
 few issues so far for me except for virtio gpu/drm-kms-helper. Which I think I can
 downgrade to another GPU(or none) driver in UTM.
 
+*Try testing it with different video drivers and different QEMU versions.
+
 
 See for yourself! Ready set go?
 <hr>
