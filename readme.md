@@ -27,6 +27,16 @@ kernel in less than an hour! Host didnt even break a break a sweat or crank on i
 This is fast/per watt, really fast!
 
 *I'm going to bump the spec and time it now!
+Testing123:
+<code>
+time rpmbuild -ba --target=$(uname -m) kernel.spec --without debug --without debuginfo --without kabichk kernel.spec 2> build-err.log | tee build-out.log
+</code>
+
+Results:
+
+
+
+
 
 
 Ready set go?
