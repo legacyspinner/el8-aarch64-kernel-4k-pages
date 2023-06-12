@@ -28,6 +28,7 @@ on rocky spins>8.x   ***Someone else suggested it might be a ks issue.
 IDK, yet. It could also be an issue with my aarch64-kvmhost or unknown.
 
 
+Subject to change:
 *Here's what I will say for now about starting with aarch64 iso's and me:
 Works, doesnt mean I tested everything, just means it booted/installed and then booted again.
 
@@ -65,7 +66,7 @@ Alma 8.8: INTRAMFS: Failes on my setup.
 
 *You can use a earlier ISO and just upgrade if you need to. 
 
-*Some builds on my setup starting with 8.5, also have issues with grabbing the console, or keeping it. 
+*Some builds on my setup starting with 8.5/8.6, also have issues with grabbing the console, or keeping it. 
 They will install/ but lose video, though you can still get to them via ssh, the , but you can probably
 manually attach video and try again.
 
