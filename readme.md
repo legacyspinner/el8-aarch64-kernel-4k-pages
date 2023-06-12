@@ -1,4 +1,4 @@
-Wow , I just love to fix stuff that is not broken and to break stuff that is fixed!  :) by. My old boss.
+Wow , I just love to fix stuff that is not broken and to break stuff that is fixed!  :) As told by: My old boss.
 <hr>
 
 To test it in a virtual environment on a el8.x aarch64 install. 
