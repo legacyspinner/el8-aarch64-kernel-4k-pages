@@ -10,7 +10,7 @@ and then install to new kernel as follows.
 
 From your test install:
 
-create the repo:
+create the file for the repo:
 <code>
 /etc/yum.repos.d/el8-aarch64-4k-pages.repo
 </code>
