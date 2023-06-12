@@ -22,6 +22,10 @@ and now I have it! For testing only ofc, bugs included! Soon, I'll get back to m
 which spawned from another project. Hopefully now I can make arm packages NATIVE and FAST. 
 
 
+***UPDATE: Yes, my mac m1 with el8 on aarch64 is blazing fast now! I just rebuild this projects
+kernel in less than an hour! Host didnt even break a break a sweat or crank on its fan very much :)
+
+
 Ready set go?
 <hr>
 On your UTM installed el8, to test/install to new 4K pages kernel:
