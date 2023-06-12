@@ -6,12 +6,13 @@ Wow , I just love to fix stuff that is not broken and to break stuff that is fix
 For example, if you have
 a el8-aarch64 installed already in UTM on a Apple M1 but its running in software mode.
 That was the only way you could normally install 7/8 in UTM.
-In UTM I have 8 cores enabled with 8G memory.
-
 Now, you can install a new kernel or upgrade the old one and test with 4K pages.
 
 It seems really fast to me, now with 'Use Hypervisor' ticked.
 I assume this is the mac equivalent of KVM, but I could be wrong.
+
+For configuration comparision:
+In UTM I have 8 cores enabled with 8G memory.
 
 This is the 4K pages version, not fully optimised for the m1, but works.
 *I also built a 16K pages version, based on apples m1 Native HW. 
