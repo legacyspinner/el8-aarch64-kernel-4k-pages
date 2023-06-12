@@ -62,7 +62,8 @@ Alma 8.7 has another iso: AlmaLinux-8.7-update-1-aarch64-minimal.iso
 8.8 boots: INITRAMFS: Fails on my setup using rocky 8.8:
 ![rocky 8.8](/assets/images/88rockynope.png?raw=true)
 
-
+Alma 8.8
+![alma 8.8](/assets/images/.png?raw=true)
 
 <br>
 
