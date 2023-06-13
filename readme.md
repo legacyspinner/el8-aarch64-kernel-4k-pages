@@ -18,11 +18,9 @@ This is the 4K pages version, not fully optimised for the m1, but works.
 *I also built a 16K pages version, based on apples m1 Native HW. 
 Kernel pagesize is also referred to by developers as granular translation table options or similar. 
 
-*This 4K version and the 16K version built recently with mock only have a few
-minor issues so far for me, I will list the problems here, might not be yours:
-
--when using gnome i noticed after a while I lost my connection on virt ethernet, not sure why yet.
--virtio gpu/drm-kms-helper error messages
+### This 4K version and the 16K version built recently with mock only have a few minor issues so far for me.
+ + when using gnome(console too?)i noticed after a while I lost my connection after a while, on virt ethernet, not sure why yet. host sleep?
+ + virtio gpu/drm-kms-helper spews error messages
 
 
 ### 4K granular/pages UTM virt, QEMU GPU Driver Testing on Gnome, with "Use Hypervisor" on.
