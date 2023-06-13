@@ -19,7 +19,11 @@ This is the 4K pages version, not fully optimised for the m1, but works.
 Kernel pagesize is also referred to by developers as granular translation table options or similar. 
 
 *This 4K version and the 16K version built recently with mock only have a few
-minor issues so far for me except for virtio gpu/drm-kms-helper. 
+minor issues so far for me, I will list the problems here, might not be yours:
+
+-when using gnome i noticed after a while I lost my connection on virt ethernet, not sure why yet.
+-virtio gpu/drm-kms-helper error messages
+
 
 ### 4K granular/pages UTM virt, QEMU GPU Driver Testing on Gnome, with "Use Hypervisor" on.
  + Virtio-gpu-pci: works
