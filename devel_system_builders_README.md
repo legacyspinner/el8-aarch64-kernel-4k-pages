@@ -21,11 +21,11 @@ I made this to test on the apple m1 with UTM with 'hypervisor' set to on.
 The machine  expects 4K or 16K pages but the default in el7/8 is detected as 64K.
 
 
-* New builds will be made with mock.
+* Current RPMS in the 4K repo now were built with mock, see logs at sf repo.
 
 Compile your own with mock with:
 <code>
-mock -r rocky-8-aarch64 kernel-4.18.0-477.13.1.el8_8.2_16K_pages.src.rpm --without debug --without debuginfo --without kabichk --enablerepo=devel
+mock -r rocky-8-aarch64 kernel-4.18.0-477.13.1.el8_8.2_4K_pages.src.rpm --without debug --without debuginfo --without kabichk --enablerepo=devel
 </code>
 
 
