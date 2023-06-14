@@ -87,7 +87,7 @@ Gnome: and glx gears
 
 
 Gnome: Testing Openarena /llvm mesa
-![8.8-on-Apple-Mac-M1-using-UTM-GNOME-OpenaArena](/assets/images/88-UTM-openarena-llvmDRI.png?raw=true)
+![8.8-on-Apple-Mac-M1-using-UTM-GNOME-OpenaArena](/assets/images/88-UTM-openarena.png?raw=true)
 
 
 
