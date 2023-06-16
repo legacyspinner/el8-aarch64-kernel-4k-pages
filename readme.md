@@ -19,7 +19,7 @@ This is the 4K pages version.
 Kernel pagesize is also referred to by developers as granular translation table options or similar. 
 
 ### This 4K version version built recently with mock only has a few minor issues so far for me.
- + This is the best version our of 4/16K to try. The 16K version continues to have issues.
+ + This is the best version out of the two I built. The 16K version continues to have issues.
  + when using gnome(console too?)i noticed after a while I lost my connection after a while, on virt ethernet, not sure why yet. host sleep?
  + virtio gpu/drm-kms-helper spews error messages
 
