@@ -14,11 +14,12 @@ I assume this is the mac equivalent of KVM, but I could be wrong.
 For configuration comparision:
 In UTM I have 8 cores enabled with 8G memory.
 
-This is the 4K pages version, not fully optimised for the m1, but works.
-*I also built a 16K pages version, based on apples m1 Native HW. 
+This is the 4K pages version.
+*I also built a 16K pages version, based on apples m1 Native HW, but it  is not stable enough for use.
 Kernel pagesize is also referred to by developers as granular translation table options or similar. 
 
-### This 4K version and the 16K version built recently with mock only have a few minor issues so far for me.
+### This 4K version version built recently with mock only has a few minor issues so far for me.
+ + This is the best version our of 4/16K to try. The 16K version continues to have issues.
  + when using gnome(console too?)i noticed after a while I lost my connection after a while, on virt ethernet, not sure why yet. host sleep?
  + virtio gpu/drm-kms-helper spews error messages
 
